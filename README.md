@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+一个普通的无聊的人。<br>
+计算机学习进行中……
 <!--
 **Deanna8080/Deanna8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
